@@ -1,9 +1,8 @@
-import scala.math._
 import scala.util.Random
 
 object Main extends App {
   /**
-   * Performs slowsort algorithm on List l by comparing elements with f
+   * Performs slowsort algorithm on List l by comparing elements by f
    *
    * リストlに対して関数fによる比較によってslowsortを行う
    * @param l List to be sorted. ソートするリスト．
